@@ -29,7 +29,7 @@ function multiply(a, b) {
 ```
 ## Courses:
 
-* RS Schools Course «JavaScript/Front-end.» (in progress)
+* RS Schools Course «JavaScript/Front-end» (in progress)
 
 ## Languages:
 
