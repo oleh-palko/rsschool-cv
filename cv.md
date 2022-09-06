@@ -21,7 +21,8 @@ I am a manual QA. I like JS and I want to develop in this direction.
 
 ## Code example:
 
-```function multiply(a, b) {
+```
+function multiply(a, b) {
   a * b
   return a * b
 }
