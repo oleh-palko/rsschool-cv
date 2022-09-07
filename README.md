@@ -1,1 +1,1 @@
-https://oleh-palko.github.io/rsschool-cv/cv
+https://oleh-palko.github.io/rsschool-cv/
