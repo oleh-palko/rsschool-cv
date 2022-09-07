@@ -1,1 +1,1 @@
-# rsschool-cv
+https://oleh-palko.github.io/rsschool-cv/
